@@ -1,0 +1,8 @@
+$title: example
+$description: an example for imml writing 
+
+[home]
+    # Example
+    Hello World.
+    [Nested Page 1]
+        This is a nested page
